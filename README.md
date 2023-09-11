@@ -1,4 +1,4 @@
-@@ -0,0 +1,26 @@
+
 # Olá! Me chamo Luis Gustavo, Sejam bem vindos ao meu ponto de partida!🚀
 Tenho 22 anos e decidi começar na área da tecnologia por paixão. Atualmente estou Fazendo curso no Senac de desenvolvimento web. Tambem participo de Bootcamp.
 
