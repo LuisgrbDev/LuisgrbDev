@@ -23,6 +23,4 @@ Minha Meta é me tornar Back-End e especialista em dados.
 
 </div>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LuisgrbDev)]
-
 Convido você caro leitor Dev, a me acompanha e se possível contribuir para a minha formação, me orientando e dando aquela força nos meus projetos futuros.
